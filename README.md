@@ -1,4 +1,4 @@
-# Notes-for-analytic-continual-learning-and-computer-vision
+# Notes-for-analytic-continual-learning
 这篇仓库是对我对于修过的分析持续学习课程与计算机视觉课程的简要回顾与总结，水平有限，谬误之处敬请指正。
 
 ## 目录
